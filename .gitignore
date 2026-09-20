@@ -1,0 +1,6 @@
+# Local game data must never be published.
+Assembly-CSharp*.dll
+*.original
+*.tmp
+test-results/
+dist/
